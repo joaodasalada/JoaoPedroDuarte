@@ -1,6 +1,7 @@
-### Hi there!!!
+### Boas vindas ao meu perfil 💙
 
-My name is Joao
+Meu nome é Joao
+
 1ºA
 Nº17
 
