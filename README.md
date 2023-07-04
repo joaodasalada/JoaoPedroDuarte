@@ -7,3 +7,6 @@ joao.castilho.duarte@escola.pr.gov.br
 ### Estou estudando na alura
 ### Estou me desenvolvendo no JavaScript
 
+
+![](https://media.tenor.com/J1jNpBUkqkYAAAAC/cr7-calma.gif)
+
