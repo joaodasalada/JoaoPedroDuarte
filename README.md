@@ -1,7 +1,7 @@
-### Boas vindas ao meu perfil 💙
+### Boas vindas ao meu perfil 💚🤯
 
-Meu nome é Joao
+### Meu nome é Joao 1ºa
 
-1ºA
-Nº17
+### Estou estudando na alura
+### Estou me desenvolvendo no JavaScript
 
